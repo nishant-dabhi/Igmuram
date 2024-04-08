@@ -4,7 +4,11 @@
 Igmuram is a native Android application designed to display stories and feeds, providing users with an immersive social media experience similar to popular platforms like Instagram. The app features a user-friendly interface for browsing and interacting with stories and feeds seamlessly.
 
 ## Screenshots
-[Include screenshots of your app here, showcasing the user interface]
+<img src="https://github.com/nishant-dabhi/Igmuram/assets/101393352/61c13493-2940-431f-8a15-afebff4a76e7" height="440">
+<img src="https://github.com/nishant-dabhi/Igmuram/assets/101393352/b85190fa-042e-44de-9343-a6b61334fd2a" height="440">
+<img src="https://github.com/nishant-dabhi/Igmuram/assets/101393352/e63dc49d-ed89-491f-8e87-efbb040e0fc7" height="440">
+
+
 
 ## Features
 - **Stories Section**: Enjoy a visually appealing interface with a horizontal list of user stories. Each story is represented by a rounded profile picture, allowing users to tap and view stories effortlessly.
@@ -41,3 +45,6 @@ Igmuram is a native Android application designed to display stories and feeds, p
   
 - **Feed Exploration**: Navigate between "Hot" and "Top" feeds to explore different content categories. Scroll through the feed to discover new and interesting posts.
 
+## Credits
+- This app utilizes Kotlin: [Kotlin](https://kotlinlang.org/)
+  - also uses Retrofit: [Retrofit](https://square.github.io/retrofit/)
