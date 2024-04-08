@@ -1,4 +1,4 @@
-# Igmuram - Native Android Stories and Feed Displayer APK
+# Igmuram - Native Android Stories and Feed APK
 
 ## Description
 Igmuram is a native Android application designed to display stories and feeds, providing users with an immersive social media experience similar to popular platforms like Instagram. The app features a user-friendly interface for browsing and interacting with stories and feeds seamlessly.
@@ -41,22 +41,3 @@ Igmuram is a native Android application designed to display stories and feeds, p
   
 - **Feed Exploration**: Navigate between "Hot" and "Top" feeds to explore different content categories. Scroll through the feed to discover new and interesting posts.
 
-## Configuration
-- No additional configuration required.
-
-## Support
-For any queries or support, please contact [email@example.com].
-
-## Roadmap
-- **Version 2.0.0**: Implement user authentication for personalized content recommendations.
-- **Version 2.1.0**: Enhance UI/UX for smoother navigation and improved user engagement.
-- **Version 2.2.0**: Introduce additional feed categories and customization options.
-
-## Security
-If you discover any security vulnerabilities, please report them to [security@example.com].
-
-## Acknowledgments
-Special thanks to [Acknowledged person/organization] for their contributions and support.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
